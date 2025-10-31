@@ -61,7 +61,7 @@ The query output includes the following fields:
 * `rank_total_country_sent_cnt`: Rank of the country by total sent emails.
 
 ##  Visualization (Looker Studio)
- [➡️ View the Interactive Dashboard]([https://lookerstudio.google.com/YOUR_DASHBOARD_LINK](https://lookerstudio.google.com/reporting/b57d352e-f879-4fe1-bfbd-8d93d63d31c0))
+ [ View the Interactive Dashboard]([https://lookerstudio.google.com/YOUR_DASHBOARD_LINK](https://lookerstudio.google.com/reporting/b57d352e-f879-4fe1-bfbd-8d93d63d31c0))
 This dataset is used to build a dashboard in Looker Studio, which includes:
 * A table/bar chart showing country-level metrics (Top 10 countries by `account_cnt`, `total_country_sent_cnt`, and their ranks).
 * A time-series chart showing the dynamics of `sent_msg` over time.
